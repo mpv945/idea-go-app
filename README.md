@@ -8,3 +8,4 @@
 # idea 配置
   1. 安装go插件，然后新建项目。可以右键运行代码；new --> file(可以选择【Go file】 的 Simple Application可以生成简单代码骨架
   2. irisServer 也是右键运行也能跑
+  3. 目前还不能导入成go项目
